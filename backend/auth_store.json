@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "S9AvllqHRn_jJIPy",
+      "name": "tejas",
+      "email": "tejabn44@gmail.com",
+      "password_hash": "pbkdf2:sha256:600000$trcm7AYT0AwELzcW$499c911ac55cadfa24ca53f2e3d4875356cc5bd5449839f75098c10b6e14b31d",
+      "created_at": "2026-06-30T09:51:31.203571Z"
+    },
+    {
+      "id": "zNBiqa97eYOthonq",
+      "name": "Tejas",
+      "email": "tejas44@gmail.com",
+      "password_hash": "pbkdf2:sha256:600000$rbnAdY8ndJ4DbFUW$d2bd4816ab515136c6dfce0bf50e77a416ded27c8a29a207d478677f00851be3",
+      "created_at": "2026-06-30T10:44:18.880508Z"
+    }
+  ],
+  "sessions": {
+    "IKk8YcL3HOh_Puri88VM2b-0GMpRMj6I-mGgsXhaKQ0": "S9AvllqHRn_jJIPy",
+    "sSEIRBB1s4NxXUsWLkNpC1kEFeE-BbJp9oh-_DDM7tk": "zNBiqa97eYOthonq"
+  }
+}
