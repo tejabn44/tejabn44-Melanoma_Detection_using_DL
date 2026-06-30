@@ -18,7 +18,7 @@ from werkzeug.security import check_password_hash, generate_password_hash
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODEL_PATH = os.path.join(BASE_DIR, "resnet.h5")
+MODEL_PATH = "https://drive.google.com/drive/folders/1cj82l8hoisq8Rq3hQGSH2Hx2Yf-oh3wh?usp=drive_link"
 AUTH_STORE_PATH = os.path.join(BASE_DIR, "auth_store.json")
 IMAGE_SIZE = (224, 224)
 ALLOWED_EXTENSIONS = {"png", "jpg", "jpeg"}
